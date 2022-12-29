@@ -1,8 +1,3 @@
-/*
- * Emircan Görkem ECE - 210303049
- * Ebrar Esila Mutlu - 190303066
- */
-
 public class Encryption {
     public String encrypt(String decoded) {
         if(decoded.equals("")){
