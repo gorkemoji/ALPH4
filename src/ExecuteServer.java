@@ -1,8 +1,3 @@
-/*
- * Emircan Görkem ECE - 210303049
- * Ebrar Esila Mutlu - 190303066
- */
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
