@@ -24,4 +24,4 @@ To run Server side:
 "java Server"
 
 To run Client side:
-"java Server"
+"java Client"
